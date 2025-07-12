@@ -25,7 +25,8 @@
 | 🧩 Projet | 🚀 Description |
 |----------|----------------|
 | [`simple_shell`](https://github.com/Tomsonne/holbertonschool-simple_shell) | Mini shell Unix en C (parsing, boucle REPL) |
-| [`HBnB API`](https://github.com/JulienPul/holbertonschool-hbnb) | Project HBNB (auth JWT, SQLAlchemy, tests) |
+| [`HBnB API Project`](https://github.com/JulienPul/holbertonschool-hbnb) | Project HBNB (auth JWT, SQLAlchemy, tests) |
+| [`Printf`](https://github.com/Lucas-blancaws/holbertonschool-printf) | _printf function |
 | [`higher_level_programming`](https://github.com/hagguishel/holbertonschool-higher_level_programming) | Mes project Holbertoon |
 | [`low_level_programming`](https://github.com/hagguishel/holbertonschool-low_level_programming) |  Mes project Holbertoon |
 | [`france-certificates-ibm`](https://github.com/hagguishel/holbertonschool-france-certificates-ibm) | certificates IBM |
