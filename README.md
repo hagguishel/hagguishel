@@ -15,7 +15,7 @@
 ## ⚙️ Tech Toolbox
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,bash,git,github,mysql,vscode,js,linux,docker,react" />
+  <img src="https://skillicons.dev/icons?i=python,c,bash,git,github,mysql,vscode,js,linux,react" />
 </div>
 
 ---
@@ -25,10 +25,11 @@
 | 🧩 Projet | 🚀 Description |
 |----------|----------------|
 | [`simple_shell`](https://github.com/hagguishel/simple_shell) | Mini shell Unix en C (parsing, boucle REPL) |
-| [`HBnB API`](https://github.com/hagguishel/holbertonschool-hbnb) | API REST Flask complète (auth JWT, SQLAlchemy, tests) |
-| [`AirBnB Clone V2`](https://github.com/hagguishel/holbertonschool-AirBnB_clone_v2) | Architecture MVC avec MySQL |
-| [`Student Serializer`](https://github.com/hagguishel/holbertonschool-higher_level_programming/tree/main/0x0B-python-input_output) | Sérialisation JSON |
-| [`Test Full API`](https://github.com/hagguishel/holbertonschool-hbnb/blob/main/part3/tests/test_full_api.py) | Couverture complète via Pytest |
+| [`HBnB API`](https://github.com/JulienPul/holbertonschool-hbnb) | Project HBNB (auth JWT, SQLAlchemy, tests) |
+| [`higher_level_programming`](https://github.com/holbertonschool-higher_level_programming) | Mes project Holbertoon |
+| [`low_level_programming`](https://github.com/holbertonschool-low_level_programming) |  Mes project Holbertoon |
+| [`france-certificates-ibm`](https://github.com/hagguishel/holbertonschool-france-certificates-ibm) | certificates IBM |
+
 
 ---
 
