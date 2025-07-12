@@ -24,10 +24,10 @@
 
 | 🧩 Projet | 🚀 Description |
 |----------|----------------|
-| [`simple_shell`](https://github.com/hagguishel/simple_shell) | Mini shell Unix en C (parsing, boucle REPL) |
+| [`simple_shell`](https://github.com/Tomsonne/holbertonschool-simple_shell) | Mini shell Unix en C (parsing, boucle REPL) |
 | [`HBnB API`](https://github.com/JulienPul/holbertonschool-hbnb) | Project HBNB (auth JWT, SQLAlchemy, tests) |
-| [`higher_level_programming`](https://github.com/holbertonschool-higher_level_programming) | Mes project Holbertoon |
-| [`low_level_programming`](https://github.com/holbertonschool-low_level_programming) |  Mes project Holbertoon |
+| [`higher_level_programming`](https://github.com/hagguishel/holbertonschool-higher_level_programming) | Mes project Holbertoon |
+| [`low_level_programming`](https://github.com/hagguishel/holbertonschool-low_level_programming) |  Mes project Holbertoon |
 | [`france-certificates-ibm`](https://github.com/hagguishel/holbertonschool-france-certificates-ibm) | certificates IBM |
 
 
