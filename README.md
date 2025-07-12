@@ -36,11 +36,24 @@
 
 ## 📈 Stats & Activité
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hagguishel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hagguishel&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=hagguishel&theme=tokyonight&hide_border=true" width="96%"/>
-</div>
+<p align="center">
+  <!-- Stats classiques -->
+  <img src="https://github-readme-stats.vercel.app/api?username=hagguishel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+
+  <!-- Langages les plus utilisés -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hagguishel&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" alt="Top Langs" />
+</p>
+
+<p align="center">
+  <!-- Streak de contribution -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hagguishel&theme=tokyonight&hide_border=true" width="96%" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <!-- Trophées stylés -->
+  <img src="https://github-profile-trophy.vercel.app/?username=hagguishel&theme=tokyonight&no-frame=true&row=1&column=7" width="100%" alt="GitHub Trophies" />
+</p>
+
 
 ---
 
