@@ -69,7 +69,7 @@
 
 ## 📡 Me contacter
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Haggui%20Razafimaitso-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/haggui-razafimaitso)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Haggui%20Razafimaitso-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/haggui-razafimaitso-6144aa371/)  
 [![GitHub](https://img.shields.io/badge/GitHub-hagguishel-181717?style=for-the-badge&logo=github)](https://github.com/hagguishel)
 
 ---
