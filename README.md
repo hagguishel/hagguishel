@@ -1,20 +1,14 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/hagguishel/hagguishel/main/2cf9de76-b078-42ae-a382-ad1d5b9e50f5.png" alt="snake animation banner" width="100%" />
-</p>
-
----
-
 <h1 align="center">
   🧠 Haggui RAZAFIMAITSO
 </h1>
 
-<p align="center" style="margin-bottom: 20px;">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=600&lines=👨‍💻+Étudiant+à+Holberton;🚀+Dev+full-stack+en+devenir;🧠+Curieux+et+créatif" alt="Typing SVG"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF6C6C&center=true&vCenter=true&multiline=true&width=600&lines=👨‍💻+Dev+full-stack+en+devenir;🚀+Étudiant+Holberton+%7C+Bordeaux;🎮+Gamer+et+créatif;🔧+J'adore+construire+des+APIs;💭+Je+code+des+rêves+en+Python" alt="Typing SVG" />
 </p>
 
-<p align="center">
+<div align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="350" />
-</p>
+</div>
 
 ---
 
@@ -51,7 +45,7 @@
 ## 🐍 Snake Game Contribution
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hagguishel/hagguishel/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://github.com/hagguishel/hagguishel/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
 ---
