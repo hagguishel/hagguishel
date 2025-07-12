@@ -1,78 +1,69 @@
-<h1 align="center">Salut, moi c’est Haggui 👨‍💻</h1>
+<h1 align="center">🧠 Haggui RAZAFIMAITSO — Codeur Curieux & Créatif</h1>
+
 <p align="center">
-  <em>« La logique m'arme, mais c'est l'imagination qui me rend dangereux. »</em>
+  <em>« La logique m'arme, mais c'est l'imagination qui me rend dangereux. »</em><br/>
+  <strong>Développeur en devenir | Étudiant à Holberton School | Bordeaux</strong>
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding gif">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="Coding gif">
 </p>
 
 ---
 
-### 👨‍🎓 Étudiant à Holberton School | 📍 Bordeaux | 🧠 Curieux de tout
+### 🌀 Qui suis-je ?
 
-J’aime apprendre, créer, découvrir.  
-Du low-level en C aux APIs Flask en Python, je me construis un cerveau numérique brique par brique.
+> 👋 Salut, moi c’est **Haggui** !  
+> Je suis un passionné de code, d'univers imaginaires et de lignes de terminal.  
+> Le C m’a appris la rigueur, Python m’a donné des ailes, et Bash m’a offert le contrôle.  
+> Chaque projet est une quête, chaque bug un boss à vaincre. 🧩
 
-Passionné de code, de jeux vidéo, de lecture, et surtout d'idées folles à réaliser avec mon terminal 🌀
-
----
-
-## 🚀 Compétences techniques
-
-- 💻 **Langages :** Python · C · JavaScript · SQL · Bash
-- 🧰 **Outils :** Git · GitHub · Flask · MySQL · Shell · VSCode
-- 🌱 **En cours :** Docker · React · Authentification JWT · ORM SQLAlchemy
+- 🧠 **Profil :** Créatif, curieux, toujours en train de bricoler un truc
+- 🎮 **Hobbies :** Monster Hunter, narration interactive, lectures de SF et de philo
+- 🛠️ **Style de dev :** Terminal ouvert, lo-fi en fond, café pas loin
 
 ---
 
-## 🔥 Projets en vedette
+## 🧰 Stack actuelle
 
-| Projet | Description |
-|--------|-------------|
-| [simple_shell](https://github.com/hagguishel/simple_shell) | Shell Unix écrit en C – parsing, execve, boucle principale |
-| [HBnB Web API](https://github.com/hagguishel/holbertonschool-hbnb) | API REST complète avec Flask, JWT, SQLAlchemy |
-| [AirBnB v2](https://github.com/hagguishel/holbertonschool-AirBnB_clone_v2) | Projet MVC en Python avec persistance base SQL |
-| [Student Serializer](https://github.com/hagguishel/holbertonschool-higher_level_programming/tree/main/0x0B-python-input_output) | Sérialisation JSON d’objet en Python |
-| [Test full API](https://github.com/hagguishel/holbertonschool-hbnb/blob/main/part3/tests/test_full_api.py) | Couverture complète d’une API REST avec Pytest |
+- 🔤 **Langages :** C · Python · JavaScript · SQL · Bash
+- 🔧 **Technos & Outils :** Git · GitHub · Flask · VSCode · MySQL · Shell
+- 🚧 **Actuellement sur :** Authentification JWT · ORM SQLAlchemy · Docker · React
 
 ---
 
-## 🧩 Un peu plus sur moi
+## 🚀 Projets à découvrir
 
-- 🎮 Gamer : Monster Hunter, jeux narratifs, roguelikes
-- 📚 Lecteur : fan de S-F, de philo, et de Rimbaud
-- 🎧 Codeur du soir… avec lo-fi ou OST de jeux
-
----
-
-## 📬 Me retrouver ailleurs
-
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/hagguishel)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haggui-razafimaitso)
+| 🗂️ Projet | 🧠 Description |
+|----------|----------------|
+| [`simple_shell`](https://github.com/hagguishel/simple_shell) | Shell Unix en C – boucle REPL, execve, parsing minimaliste |
+| [`HBnB API`](https://github.com/hagguishel/holbertonschool-hbnb) | API REST complète avec Flask, SQLAlchemy, JWT & tests Pytest |
+| [`AirBnB v2`](https://github.com/hagguishel/holbertonschool-AirBnB_clone_v2) | Architecture MVC Python + persistance MySQL |
+| [`Student Serializer`](https://github.com/hagguishel/holbertonschool-higher_level_programming/tree/main/0x0B-python-input_output) | Objets Python → JSON (et vice-versa) |
+| [`Test Full API`](https://github.com/hagguishel/holbertonschool-hbnb/blob/main/part3/tests/test_full_api.py) | Tests automatisés d’API REST avec Pytest |
 
 ---
 
-## 📈 GitHub Stats
+## 🌐 Me retrouver ailleurs
+
+[![GitHub](https://img.shields.io/badge/-@hagguishel-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hagguishel)
+[![LinkedIn](https://img.shields.io/badge/-Haggui%20Razafimaitso-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haggui-razafimaitso)
+
+---
+
+## 📈 Statistiques GitHub
 
 <div align="center">
 
-![Haggui's GitHub stats](https://github-readme-stats.vercel.app/api?username=hagguishel&show_icons=true&theme=tokyonight&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hagguishel&layout=compact&theme=tokyonight)
+![Haggui's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hagguishel&show_icons=true&theme=radical&count_private=true)
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hagguishel&layout=compact&theme=radical)
 
 </div>
 
 ---
 
-## ⚡ Fun fact
+## ⚡ Commit signature
 
-> `git commit -m "✨ I turn coffee into code and imagination into projects"`  
->  
-> Ce n’est pas (encore) magique, mais presque.
-
----
-
-<p align="center">
-  Merci pour ta visite 👾
-</p>
+```bash
+git commit -m "✨ Turning coffee into clean code & dreams into APIs"
