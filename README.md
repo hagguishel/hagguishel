@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hagguishel/hagguishel/main/A_2D_digital_illustration_in_pixel_art_style_featu.png" alt="Haggui banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/hagguishel/hagguishel/main/A_2D_digital_illustration_in_pixel_art_style_featu.png" alt="Haggui banner" width="600%" />
 </p>
 
 ---
