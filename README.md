@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/hagguishel/hagguishel/main/A_2D_digital_illustration_in_pixel_art_style_featu.png" alt="Haggui banner" width="100%" />
-</p>
-
----
-
 <h1 align="center">
   🧠 Haggui RAZAFIMAITSO
 </h1>
@@ -12,7 +6,8 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=600&lines=👨‍💻+Étudiant+à+Holberton;🚀+Dev+full-stack+en+devenir;🧠+Curieux+et+créatif" alt="Typing SVG"/>
 </p>
 
-<br><br>
+<br>
+<br>
 
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="350" />
