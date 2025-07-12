@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hagguishel/hagguishel/main/2cf9de76-b078-42ae-a382-ad1d5b9e50f5.png" alt="snake animation banner" width="100%" />
+</p>
+
+---
+
 <h1 align="center">
   🧠 Haggui RAZAFIMAITSO
 </h1>
