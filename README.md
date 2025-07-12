@@ -2,19 +2,18 @@
   🧠 Haggui RAZAFIMAITSO
 </h1>
 
+<!-- Typing animation tout en haut -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=600&lines=👨‍💻+Étudiant+à+Holberton;🚀+Dev+full-stack+en+devenir;🧠+Curieux+et+créatif" alt="Typing SVG"/>
 </p>
 
-<!-- 🛠 ESPACE D'AIR -->
-<div><br><br><br></div>
+<!-- Ajout d’un peu d’air -->
+<br><br>
 
+<!-- Bannière image ensuite -->
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="350" />
+  <img src="https://github.com/hagguishel/hagguishel/blob/main/ChatGPT%20Image%2012%20juil.%202025,%2012_00_12.png?raw=true" alt="Haggui banner" width="100%" />
 </p>
-
-
----
 
 ## ⚙️ Tech Toolbox
 
