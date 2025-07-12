@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="https://github.com/hagguishel/hagguishel/blob/main/ChatGPT%20Image%2012%20juil.%202025,%2012_00_12.png?raw=true" alt="Haggui banner" width="100%" />
-</p>
-
----
-
 <h1 align="center">
   🧠 Haggui RAZAFIMAITSO
 </h1>
