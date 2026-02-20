@@ -15,7 +15,7 @@
 ## ⚙️ Tech Toolbox
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,react,expo,postgres,docker,prisma,git,linux" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,c,bash,nodejs,nestjs,react,expo,postgres,mysql,prisma,docker,git,github,linux,vscode" />
 </div>
 
 ---
