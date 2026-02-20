@@ -24,6 +24,7 @@
 
 | 🧩 Projet | 🚀 Description |
 |----------|----------------|
+| [`LockFit`](https://github.com/hagguishel/LockFit) | LockFit — Secure Workout Tracking App (React Native & NestJS) |
 | [`simple_shell`](https://github.com/Tomsonne/holbertonschool-simple_shell) | Mini shell Unix en C (parsing, boucle REPL) |
 | [`HBnB API Project`](https://github.com/hagguishel/holbertonschool-hbnb) | Project HBNB (auth JWT, SQLAlchemy, tests) |
 | [`Printf`](https://github.com/Lucas-blancaws/holbertonschool-printf) | _printf function |
